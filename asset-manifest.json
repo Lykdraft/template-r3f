@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://Lykdraft.github.io/template-r3f/static/css/main.93a0497a.css",
+    "main.js": "https://Lykdraft.github.io/template-r3f/static/js/main.0913fcfc.js",
+    "index.html": "https://Lykdraft.github.io/template-r3f/index.html",
+    "main.93a0497a.css.map": "https://Lykdraft.github.io/template-r3f/static/css/main.93a0497a.css.map",
+    "main.0913fcfc.js.map": "https://Lykdraft.github.io/template-r3f/static/js/main.0913fcfc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93a0497a.css",
+    "static/js/main.0913fcfc.js"
+  ]
+}
